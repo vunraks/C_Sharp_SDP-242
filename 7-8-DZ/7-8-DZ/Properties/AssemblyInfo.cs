@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные с этой сборкой.
-[assembly: AssemblyTitle("Lesson_2_DZ")]
+[assembly: AssemblyTitle("7-8-DZ")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Lesson_2_DZ")]
+[assembly: AssemblyProduct("7-8-DZ")]
 [assembly: AssemblyCopyright("Copyright ©  2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[assembly: Guid("95bf3f2d-0b99-4d99-b83b-88e8aa96188d")]
+[assembly: Guid("c9d6bf32-ef3b-4f51-a8a7-c8dec2113ed1")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //
